@@ -8,6 +8,9 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 How to reach me **tamoorsaeed22@gmail.com**
+- 🌱 I’m currently learning **HTML,CSS AND JAVASCRIPT**
+- 👨‍💻 All of my projects are available at [https://github.com/tamoorsaeed22?tab=repositories](https://github.com/tamoorsaeed22?tab=repositories)
+- 💬 Ask me about **HTM,CSS,JAVASCRIPT**
 
 - ⚡ Fun fact **The bravest thing I've ever done was give a product demonstration to a live audience of over one thousand people.**
 
