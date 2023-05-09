@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/tamoorsaeed22?tab=repositories](https://github.com/tamoorsaeed22?tab=repositories)
 - 💬 Ask me about **HTM,CSS,JAVASCRIPT**
 
-- ⚡ Fun fact **The bravest thing I've ever done was give a product demonstration to a live audience of over one thousand people.**
+- ⚡ About Me **I am a Full-Stack developer and Fluent in multiple languages, frameworks, and technologies to constantly learn new things. I have strong skills in Javascript,HTML and CSS such as Bootstrap etc. Currently I am full-stack student at Microverse. I am a amibtious problem-solving type of guy, which is why coding is one of my passions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
