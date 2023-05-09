@@ -10,7 +10,7 @@
 - 📫 How to reach me **tamoorsaeed22@gmail.com**
 - 🌱 I’m currently learning **HTML,CSS AND JAVASCRIPT**
 - 👨‍💻 All of my projects are available at [https://github.com/tamoorsaeed22?tab=repositories](https://github.com/tamoorsaeed22?tab=repositories)
-- - Here is my portfolio. - [MyPortfolio](https://github.com/tamoorsaeed22/Portfolio-Desktop)
+-    Here is my portfolio. - [[My-portfolio] is my portfolio project where i create the mobile version of the project following a Figma design template.No complex coding in this project.I will be using tools in all projects and most likely in future job as well, so it is important to know them!](https://github.com/tamoorsaeed22/Portfolio-Desktop)
 - 💬 Ask me about **HTM,CSS,JAVASCRIPT**
 
 - ⚡ **I am a Full-Stack developer and Fluent in multiple languages, frameworks, and technologies to constantly learn new things. I have strong skills in Javascript,HTML and CSS such as Bootstrap etc. Currently I am full-stack student at Microverse. I am a amibtious problem-solving type of guy, which is why coding is one of my passions**
